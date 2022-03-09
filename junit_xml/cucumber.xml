@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="25.5">
+<testcase classname="Script 1 to test BDD framework." name="Launch the browser and open the desired url, using data table concept2." time="25.271">
+<system-out><![CDATA[Given the user opens the browser............................................passed
+Then the user opens the website2............................................passed
+Then the user quits the browser.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
